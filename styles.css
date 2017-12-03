@@ -3,6 +3,12 @@ body, input {
     font-family: 'Macondo Swash Caps', cursive;
 }
 
+@media (max-width: 450px){
+	body{
+		font-size: 2em;
+	}
+}
+
 h1 {
     font-family: Monoton;
     font-size: 70px;
