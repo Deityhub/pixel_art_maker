@@ -3,7 +3,7 @@ body, input {
     font-family: 'Macondo Swash Caps', cursive;
 }
 
-@media (max-width: 450px){
+@media (max-width: 500px){
 	body{
 		font-size: 2em;
 	}
