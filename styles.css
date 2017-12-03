@@ -4,8 +4,11 @@ body, input {
 }
 
 @media (max-width: 500px){
-	body{
-		font-size: 3em;
+	*{
+		font-size: 3em !important;
+	}
+	input, form, h1, p, h2,  {
+		display: block;
 	}
 }
 
